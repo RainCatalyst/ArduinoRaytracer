@@ -1,7 +1,8 @@
 
 # Arduino Raytracer
-
-![demo](demo.jpg)
+<p align="center">
+<img src="demo.jpg" alt="demo" width="200"/>
+</p>
 
 Barebones raytracing implementation in Arduino C++.  
 Some code was adapted from https://github.com/caosdoar/arduino-raytracer/.  
